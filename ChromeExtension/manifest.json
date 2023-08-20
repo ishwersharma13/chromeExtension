@@ -1,0 +1,16 @@
+{
+  "manifest_version": 3,
+  "name": "Chrome Extension",
+  "version": "1.0",
+  "description": "Description of your extension",
+  "permissions": ["activeTab"],
+  "action": {
+    "default_popup": "./public/index.html",
+    "default_icon":  {
+      "16": "./public/icon.png",
+      "48": "./public/icon.png",
+      "128": "./public/icon.png"
+    }
+  }
+
+}

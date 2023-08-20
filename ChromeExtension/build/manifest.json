@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/static/css/main.1f1471b3.css",
+    "main.js": "/static/js/main.ad298f1b.js",
+    "index.html": "/index.html",
+    "main.1f1471b3.css.map": "/static/css/main.1f1471b3.css.map",
+    "main.ad298f1b.js.map": "/static/js/main.ad298f1b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1f1471b3.css",
+    "static/js/main.ad298f1b.js"
+  ],
+  
+  "manifest_version": 3,
+  "name": "My Chrome Extension",
+  "version": "1.0",
+  "description": "Description of your extension",
+  "permissions": ["activeTab"]
+  
+}
